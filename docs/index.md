@@ -58,6 +58,10 @@ style BJGA fill:#90d5ff
 
 RSA --> RSAGLJ{Married\n2006\nLondon};
 GLJ[Gavin Laurence Jones\n1967---\nBirmingham---] --> RSAGLJ
+RSAGLJ --> MAAJ[private]
+style MAAJ fill:#FADADD
+RSAGLJ --> VGAJ[private]
+style VGAJ fill:#FADADD
 
 
 
