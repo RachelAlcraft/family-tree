@@ -11,11 +11,13 @@ Resources:
 - https://www.scottishfield.co.uk/culture/charles-faa-blythe-the-last-king-of-scotlands-gypsies/
 - https://museumsnorthumberland.org.uk/our-collections/object-in-focus-home/object-in-focus-no-19/
 - https://electricscotland.com/history/literat/fisherchapbook.pdf
+- https://graphicarts.princeton.edu/2017/03/09/james-allan-gypsy-musician-and-thief/
 
 **records**  
 - [John Alcraft Engineer 1841](https://www.glasgowlife.org.uk/media/afgk0de3/st-andrews-baptisms-by-fathers-surname.pdf)
 
 **births marriages deaths**  
+- [Will Allan (piper) Bellingham 1704 married Betty Faa](https://www.thenorthernecho.co.uk/history/8857492.The_duke___s_piper/)
 - [James Allan (piper) Hepple 1734](https://scottishchapbooks.lib.uoguelph.ca/items/show/845#:~:text=It%20is%20possible%20that%20he,4%20November%201765).)
 - NO DIRECT LINK to ...
 - [John Allan born Scotland 1768](https://www.wikitree.com/wiki/Allan-4870)
