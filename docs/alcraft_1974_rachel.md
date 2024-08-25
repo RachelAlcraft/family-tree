@@ -6,7 +6,7 @@ SAB[Sara Ann Burrell\n1947---\nLondon---];
 JBA[Joss Burrell Alcraft\n1972---\nLondon---];
 RSA[Rachel Sarah Alcraft\n1974---\nLondon---];
 BJGA[Ben John George Alcraft\n1978---\nSweden---];
-FDA ----> || SAB;
+FDA ----> |Married| SAB;
 style FDA fill:#FADADD;
 style SAB fill:#FADADD;
 style JBA fill:#FADADD;
