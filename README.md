@@ -29,13 +29,25 @@ Resources:
 **Possible links**
 - https://richardgwynallenblog.wordpress.com/2016/12/12/more-on-our-scottish-allan-family/
 
-  **Confusion**  
-  Ellen Aleraft (sic) in [1911 census](https://www.ancestry.co.uk/discoveryui-content/view/35604120:2352?tid=199507113&pid=192607241864&hid=1017549937697) has children:  
-  Benjamin Thomas Alcraft (head) 25  (corporation bath attendant)  
-  Ellen Aleraft (mother) 61  
-  James Samuel Aleraft (son) 23 (factory electric crane driver)  
-  Ugnes (sic) Smith Aleraft (daughter) 21 (theatre clerk)  
-  Harry Aleraft (son) 14  (factory apprentice engineer)
+**Confusion**  
+*1881 Census*  
+- John Alcraft (head) 42 (engine fitter)
+- Jane (wife) 40
+- Isabella (daughter)  (domestic servant)  
+- Jane (daughter)  (scholar)  
+- John (son) 10  
+- Barbara (daughter) 8  
+- Francis (daughter) 5  
+- Elizabeth (daughter) 2   
+![image](https://github.com/user-attachments/assets/7e26162a-73f2-4854-8a8d-550797c438a5)
+
+*1911 Census*  
+- Ellen Aleraft (sic) in [1911 census](https://www.ancestry.co.uk/discoveryui-content/view/35604120:2352?tid=199507113&pid=192607241864&hid=1017549937697) has children:  
+- Benjamin Thomas Alcraft (head) 25  (corporation bath attendant)  
+- Ellen Aleraft (mother) 61  
+- James Samuel Aleraft (son) 23 (factory electric crane driver)  
+- Ugnes (sic) Smith Aleraft (daughter) 21 (theatre clerk)  
+- Harry Aleraft (son) 14  (factory apprentice engineer)
   ![image](https://github.com/user-attachments/assets/e060fadd-5293-4373-a023-9ef49f6d7435)
 
   
