@@ -49,6 +49,12 @@ JA3NL --> FDA;
 FDA --> FDASAB{Married\n1969\nLondon};
 SAB[Sara Ann Burrell\n1847---\nLondon---];
 SAB --> FDASAB;
+FDASAB -->JBA[Joss Burrell Alcraft\1972---\nLondon---];
+style JBA fill:#90d5ff
+FDASAB -->RSA[Rachel Sarah Alcraft\1974---\nLondon---];
+style RSA fill:#FADADD
+FDASAB -->BJGA[Benjamin John George Alcraft\1978---\nSweden---];
+style BJGA fill:#90d5ff
 
 
 
