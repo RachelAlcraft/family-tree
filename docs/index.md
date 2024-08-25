@@ -9,7 +9,5 @@ flowchart TD
   C[John Alcraft] --> B{Married};
   B -->D[Someone else];  
   style A fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99
-  style B fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99
-  click A "alcraft" "RS Good Practice"
-  click B "burrell" "RS Good Practice"  
+  style B fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99  
 ```
