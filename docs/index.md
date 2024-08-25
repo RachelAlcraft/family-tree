@@ -10,6 +10,6 @@ flowchart TD
   B -->D[Someone else];  
   style A fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99
   style B fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99
-  click A "https://icr-rse-group.github.io/good-practice/about/" "RS Good Practice"
-  click B "https://icr-rse-group.github.io/good-practice/about/" "RS Good Practice"  
+  click A "alcraft" "RS Good Practice"
+  click B "burrell" "RS Good Practice"  
 ```
