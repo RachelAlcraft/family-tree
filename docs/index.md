@@ -47,7 +47,7 @@ JA3NL --> JBA;
 JA3NL --> FDA;
 
 FDA --> FDASAB{Married\n1970\nLondon};
-SAB[Sara Ann Burrell\n1847---\nLondon---];
+SAB[Sara Ann Burrell\n1947---\nLondon---];
 SAB --> FDASAB;
 FDASAB -->JBA2[Joss Burrell Alcraft\n1972---\nLondon---];
 style JBA2 fill:#90d5ff
