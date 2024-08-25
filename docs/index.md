@@ -9,5 +9,6 @@ flowchart TD
   C[John Alcraft] --> B{Married};
   B -->D[Someone else];  
   style A fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99
+  click A "https://peps.python.org/pep-0008/" "A"
   style B fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99  
 ```
