@@ -6,6 +6,7 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 ``` mermaid
 flowchart TD  
 JA000[James Allan\n1734-1810\nHepple-Durham];
+click JA000 "https://scottishchapbooks.lib.uoguelph.ca/items/show/845#:~:text=It%20is%20possible%20that%20he,4%20November%201765" "JA000";
 JA000 ----> |relation unknown and speculative| JA00;
 JA00[John or James Allan\n1768-?\nScotland-?]
 style JA00 fill:#FADADD;
