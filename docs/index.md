@@ -5,6 +5,11 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 
 ``` mermaid
 flowchart TD  
+WA[William Allan\n1704-1779\nBellingham];
+BF[Betty Faa];
+WA --> WABF{Married};
+BF --> WABF;
+WABF --> JA000;
 JA000[James Allan\n1734-1810\nHepple-Durham];
 click JA000 "https://museumsnorthumberland.org.uk/our-collections/object-in-focus-home/object-in-focus-no-19/" "JA000";
 JA000 ----> |relation unknown and speculative| JA00;
