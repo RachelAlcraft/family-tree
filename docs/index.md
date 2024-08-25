@@ -18,6 +18,7 @@ JAJA -->FEA[Francis Ellen Alcraft\n1876-1935\nNewcastle UT-];
 JAJA -->EEA[Elizabeth Ellen Alcraft\n1878-1967\nNewcastle UT-];
 JRA --> JRACGP{Married\n1897\nNewcastle UT};
 CGP[Catherine Greaves Pyle\n1873-1956\nNewcastle UT-Newcastle UT];
+CGP --> JRACGP;
 
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
