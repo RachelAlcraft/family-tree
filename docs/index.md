@@ -6,6 +6,8 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 ``` mermaid
 flowchart TD  
 WA[William Allan\n1704-1779\nBellingham];
+style WA fill:#FADADD;
+click WA "https://www.thenorthernecho.co.uk/history/8857492.dukes-piper/" "WA";
 BF[Betty Faa];
 WA --> WABF{Married};
 BF --> WABF;
