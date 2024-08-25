@@ -19,6 +19,7 @@ JAJA -->EEA[Elizabeth Ellen Alcraft\n1878-1967\nNewcastle UT-];
 
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
+style JRA fill:#90d5ff
 
 style JA2 fill:#FADADD
 click JA2 "jones" "JA2"
