@@ -11,10 +11,10 @@ SAB --> FDASAB;
 FDASAB --> JBA;
 FDASAB --> RSA;
 FDASAB --> BJGA;
-style FDA fill:#FADADD;
+style FDA fill:#90d5ff;
 style SAB fill:#FADADD;
-style JBA fill:#FADADD;
+style JBA fill:#90d5ff;
 style RSA fill:#FADADD;
-style BJGA fill:#FADADD;
+style BJGA fill:#90d5ff;
 click FDA "https://www.thenorthernecho.co.uk/history/8857492.dukes-piper/" "WA";
 ```
