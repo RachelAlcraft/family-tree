@@ -23,9 +23,13 @@ CGP --> JRACGP;
 JRACGP --> JRA2[John Robert Alcraft\n1898-1898\nNewcastle UT];
 style JRA2 fill:#90d5ff
 JRACGP --> EA[Edward Alcraft\n1899-1899\nNewcastle UT];
+style EA fill:#90d5ff
 JRACGP --> AA[Ann Alcraft\n1900-1998\nNewcastle UT];
+style AA fill:#FADADD
 JRACGP --> JA3[John Alcraft\n1904-1992\nNewcastle UT-Salisbury];
+style JA3 fill:#90d5ff
 JRACGP --> FEA2[Frances Ellen Alcraft\n1908-1982\nNewcastle UT];
+style FEA2 fill:#FADADD
 
 JA3 --> JA3NL{Married\n1931\nNewcastle UT};
 NL[Nance Laidler\n1905-2006\nLondon-Salisbury];
