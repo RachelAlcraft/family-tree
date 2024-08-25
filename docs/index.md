@@ -34,6 +34,12 @@ style FEA2 fill:#FADADD
 JA3 --> JA3NL{Married\n1931\nNewcastle UT};
 NL[Nance Laidler\n1905-2006\nLondon-Salisbury];
 NL --> JA3NL;
+JBA[(John) Brian Alcraft\n1933-2022\nNewvcastle UT-Ipswich];
+style JBA fill:#90d5ff
+FDA[(Francis) David Alcraft\n1947---\nNewvcastle UT---];
+style FDA fill:#90d5ff
+JA3NL --> JBA;
+JA3NL --> FDA;
 
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
