@@ -26,7 +26,6 @@ style SAB fill:#FADADD;
 style JBA fill:#90d5ff;
 style RSA fill:#FADADD;
 style BJGA fill:#90d5ff;
-style GLJ fill:#90d5ff;
 style MAAJ fill:#FADADD;
 style VGAJ fill:#FADADD;
 
