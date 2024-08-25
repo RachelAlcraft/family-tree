@@ -13,6 +13,8 @@ WA --> WABF{Married};
 BF --> WABF;
 WABF --> JA000;
 JA000[James Allan\n1734-1810\nHepple-Durham];
+JA000 --> JA000IM{Married\n1763\nRothbury}
+IM[Isabel Moffat] --> JA000IM
 click JA000 "https://museumsnorthumberland.org.uk/our-collections/object-in-focus-home/object-in-focus-no-19/" "JA000";
 JA000 ----> |relation unknown and speculative| JA00;
 JA00[John or James Allan\n1768-?\nScotland-?]
