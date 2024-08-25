@@ -9,6 +9,5 @@ flowchart TD
   C[John Alcraft] --> B{Married};
   B -->D[Someone else];  
   style A fill:#FADADD,stroke:#333,stroke-width:1px,color:#99ff99
-  click A "jones.md" "A"
-  style B fill:#ff3399,stroke:#333,stroke-width:1px,color:#99ff99  
+  click A "jones.md" "A"  
 ```
