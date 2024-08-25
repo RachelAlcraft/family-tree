@@ -29,13 +29,13 @@ Resources:
 **Possible links**
 - https://richardgwynallenblog.wordpress.com/2016/12/12/more-on-our-scottish-allan-family/
 
-**Confusion**  
+**Ellen Smith stepmother**  
 *1881 Census*  
 - John Alcraft (head) 42 (engine fitter)
-- Jane (wife) 40
-- Isabella (daughter)  (domestic servant)  
-- Jane (daughter)  (scholar)  
-- John (son) 10  
+- Jane (nee Allan) (wife) 40 died 2 years later in 1883 at 42
+- Isabella (daughter) born 1867, 14 (domestic servant)  
+- Jane (daughter) born 1869, 12 (scholar)  
+- John Robert (son) 10  born 1871, died 1953
 - Barbara (daughter) 8  
 - Francis (daughter) 5  
 - Elizabeth (daughter) 2   
@@ -49,6 +49,10 @@ Resources:
 - Ugnes (sic) Smith Aleraft (daughter) 21 (theatre clerk)  
 - Harry Aleraft (son) 14  (factory apprentice engineer)
   ![image](https://github.com/user-attachments/assets/e060fadd-5293-4373-a023-9ef49f6d7435)
+
+John Robert has own family:  
+- John Alcraft (son) 6 (Rachel's granddad)  
+![image](https://github.com/user-attachments/assets/2377e89a-b558-4dd8-afe3-bead6e1e22cb)
 
   
 
