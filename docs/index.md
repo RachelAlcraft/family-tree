@@ -5,9 +5,9 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 
 ``` mermaid
 flowchart TD  
-JA1[John Alcraft\n1839-1903\nNewcastle Upon Type-Newcastle Upon Tyne] --> JAJA{Married\n1864};
-JA2[Jane Allan\n1841-1883\nEglingham-newcastle Upon Tyne] --> JAJA;
-JA2[Ellen Smith\n1850-1939\nEglingham-newcastle Upon Tyne] --> JAES{Married\n1885};  
+JA1[John Alcraft\n1839-1903\nNewcastle Upon Type-Newcastle UT] --> JAJA{Married\n1864};
+JA2[Jane Allan\n1841-1883\nEglingham-Newcastle UT] --> JAJA;
+JA2[Ellen Smith\n1850-1939\nEdinburgh-Newcastle UT] --> JAES{Married\n1885};  
 JAJA -->D[Someone else];  
 
 style JAJA fill:#D3D3D3
