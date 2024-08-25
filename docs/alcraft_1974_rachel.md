@@ -17,6 +17,7 @@ FDASAB --> RSA;
 FDASAB --> BJGA;
 
 RSA --> RSAGLJ[Married\n2006\nLondon];
+GLJ --> RSAGLJ;
 RSAGLJ --> MAAJ;
 RSAGLJ --> VGAJ;
 
