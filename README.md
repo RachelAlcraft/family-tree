@@ -29,7 +29,7 @@ Resources:
 **Possible links**
 - https://richardgwynallenblog.wordpress.com/2016/12/12/more-on-our-scottish-allan-family/
 
-  **Confusion**
+  **Confusion**  
   Ellen Aleraft (sic) in [1911 census](https://www.ancestry.co.uk/discoveryui-content/view/35604120:2352?tid=199507113&pid=192607241864&hid=1017549937697) has children:  
   Benjamin Thomas Alcraft (head) 25  (corporation bath attendant)  
   Ellen Aleraft (mother) 61  
