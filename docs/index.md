@@ -9,7 +9,7 @@ JA1[John Alcraft] --> JAJA{Married};
 JA2[Jane Allan] --> JAJA{Married};  
 JAJA -->D[Someone else];  
 style JAJA fill:#D3D3D3
-style JA1 fill:##90d5ff
+style JA1 fill:#90d5ff,stroke:#90d5ff
 click JA1 "jones.md" "JA2"
 style JA2 fill:#FADADD
 click JA2 "jones.md" "JA1"
