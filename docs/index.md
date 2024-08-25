@@ -15,7 +15,8 @@ JAJA -->JAA[Jane Armstrong Alcraft\n1869-1951\nShieldfield-];
 JAJA -->JRA[John Robert Alcraft\n1871-1953\nNewcastle UT-];
 JAJA -->BEA[Barbara Edith Alcraft\n1873-1954\nNewcastle UT-];
 JAJA -->FEA[Francis Ellen Alcraft\n1876-1935\nNewcastle UT-];
-JAJA -->EEA[Elizabeth Ellen Alcraft\n1878-1967\nNewcastle UT-];  
+JAJA -->EEA[Elizabeth Ellen Alcraft\n1878-1967\nNewcastle UT-];
+JRA --> JRACGP{Married\n1897\nNewcastle UT}
 
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
