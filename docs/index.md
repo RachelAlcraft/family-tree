@@ -5,6 +5,13 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 
 ``` mermaid
 flowchart TD  
+JA0[John Allan\n1807-1891\nBamburgh-Riding]
+style JA0 fill:#90d5ff
+MAF[Mary Ann Fiddes\n1808-1845];
+style MAF fill:#FADADD;
+JA0 --> JA0MAF{Married\n1836\nAlnham};
+MAF --> JA0MAF;
+JA0MAF --> JA2;
 JA1[John Alcraft\n1839-1903\nNewcastle UT-Newcastle UT] --> JAJA{Married\n1864\nSt Nicholas Newcastle UT};
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
