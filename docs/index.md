@@ -26,8 +26,9 @@ JRACGP --> AA[Ann Alcraft\n1900-1998\nNewcastle UT];
 JRACGP --> JA3[John Alcraft\n1904-1992\nNewcastle UT-Salisbury];
 JRACGP --> FEA2[Frances Ellen Alcraft\n1908-1982\nNewcastle UT];
 
-JA3 --> JA3NL{Married\n1931\nNewcastle UT}
-NL[Nance Laidler\n1905-2006\nLondon-Salisbury]
+JA3 --> JA3NL{Married\n1931\nNewcastle UT};
+NL[Nance Laidler\n1905-2006\nLondon-Salisbury];
+NL --> JA3NL;
 
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
