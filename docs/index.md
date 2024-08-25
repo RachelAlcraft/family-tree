@@ -46,16 +46,18 @@ style FDA fill:#90d5ff
 JA3NL --> JBA;
 JA3NL --> FDA;
 
-FDA --> FDASAB{Married\n1969\nLondon};
+FDA --> FDASAB{Married\n1970\nLondon};
 SAB[Sara Ann Burrell\n1847---\nLondon---];
 SAB --> FDASAB;
-FDASAB -->JBA2[Joss Burrell Alcraft\1972---\nLondon---];
+FDASAB -->JBA2[Joss Burrell Alcraft\n1972---\nLondon---];
 style JBA2 fill:#90d5ff
-FDASAB -->RSA[Rachel Sarah Alcraft\1974---\nLondon---];
+FDASAB -->RSA[Rachel Sarah Alcraft\n1974---\nLondon---];
 style RSA fill:#FADADD
-FDASAB -->BJGA[Benjamin John George Alcraft\1978---\nSweden---];
+FDASAB -->BJGA[Benjamin John George Alcraft\n1978---\nSweden---];
 style BJGA fill:#90d5ff
 
+RSA --> RSAGLJ{Married\n2006\nLondon};
+GLJ[Gavin Laurence Jones\n1967---\nBirmingham---]
 
 
 
