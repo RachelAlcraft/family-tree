@@ -5,7 +5,7 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 
 ``` mermaid
 flowchart TD  
-JA00[John Allan\n1768-?\nScotland-?]
+JA00[John or James Allan\n1768-?\nScotland-?]
 style JA00 fill:#FADADD;
 click JA00 "https://www.wikitree.com/wiki/Allan-4870" "JA00";
 JA00 --> JA00UKN{Married?};
