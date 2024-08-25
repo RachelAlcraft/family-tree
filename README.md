@@ -35,6 +35,8 @@ Resources:
   Ellen Aleraft (mother) 61  
   James Samuel Aleraft (son) 23 (factory electric crane driver)  
   Ugnes (sic) Smith Aleraft (daughter) 21 (theatre clerk)  
-  Harry Aleraft (son) 14  (factory apprentice engineer)  
+  Harry Aleraft (son) 14  (factory apprentice engineer)
+  ![image](https://github.com/user-attachments/assets/e060fadd-5293-4373-a023-9ef49f6d7435)
+
   
 
