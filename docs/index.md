@@ -76,6 +76,7 @@ FDASAB -->JBA2[Joss Burrell Alcraft\n1972---\nLondon---];
 style JBA2 fill:#90d5ff
 FDASAB -->RSA[Rachel Sarah Alcraft\n1974---\nLondon---];
 style RSA fill:#FADADD
+click RSA "alcraft_1974_rachel" "RSA";
 FDASAB -->BJGA[Benjamin John George Alcraft\n1978---\nSweden---];
 style BJGA fill:#90d5ff
 
