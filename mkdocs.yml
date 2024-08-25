@@ -6,8 +6,8 @@ nav:
   - Burrell: burrell.md
 theme:
   name: material
-  logo: assets/icr_svg_logo.svg  
-  favicon: assets/icr_svg_logo.svg  
+  logo: assets/jimmy.png  
+  favicon: assets/jimmy.png
   palette:
     primary: pink  
     accent: deep orange  
