@@ -1,6 +1,6 @@
 # Are we related to James Allan?
 
-A project to trace the Alcrafts back to the infamous Northumbrian piper James Allan, and do a family tree in the process.
+A project to trace the Alcrafts back to the infamous Northumbrian piper James Allan, with a family tree in the process.
 
 
 ``` mermaid
