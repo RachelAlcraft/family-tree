@@ -12,4 +12,6 @@ flowchart TD
   click JA1 "jones.md" "JA1"
   style JA2 fill:##90d5ff,stroke:#333,stroke-width:1px,color:#99ff99
   click JA2 "jones.md" "JA2"
+  style JAJA fill:#D3D3D3
+
 ```
