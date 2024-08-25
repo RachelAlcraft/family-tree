@@ -1,0 +1,21 @@
+site_name: Family Tree
+nav:
+  - Index: index.md
+  - Alcraft: alcraft.md
+  - Jones: jones.md
+  - Burrell: burrell.md
+theme:
+  name: material
+  logo: assets/icr_svg_logo.svg  
+  favicon: assets/icr_svg_logo.svg  
+  palette:
+    primary: pink  
+    accent: deep orange  
+  features:
+    - content.code.copy
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
