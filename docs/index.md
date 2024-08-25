@@ -10,6 +10,6 @@ flowchart TD
   JAJA -->D[Someone else];  
   style JA1 fill:#FADADD,stroke:#333,stroke-width:1px,color:#99ff99
   click JA1 "jones.md" "JA1"
-  style JA2 fill:#FADADD,stroke:#333,stroke-width:1px,color:##90d5ff
+  style JA2 fill:##90d5ff,stroke:#333,stroke-width:1px,color:#99ff99
   click JA2 "jones.md" "JA2"
 ```
