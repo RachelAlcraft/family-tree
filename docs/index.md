@@ -16,14 +16,18 @@ JAJA -->JRA[John Robert Alcraft\n1871-1953\nNewcastle UT-];
 JAJA -->BEA[Barbara Edith Alcraft\n1873-1954\nNewcastle UT-];
 JAJA -->FEA[Francis Ellen Alcraft\n1876-1935\nNewcastle UT-];
 JAJA -->EEA[Elizabeth Ellen Alcraft\n1878-1967\nNewcastle UT-];
+
 JRA --> JRACGP{Married\n1897\nNewcastle UT};
 CGP[Catherine Greaves Pyle\n1873-1956\nNewcastle UT-Newcastle UT];
 CGP --> JRACGP;
 JRACGP --> JRA2[John Robert Alcraft\n1898-1898\nNewcastle UT];
 JRACGP --> EA[Edward Alcraft\n1899-1899\nNewcastle UT];
 JRACGP --> AA[Ann Alcraft\n1900-1998\nNewcastle UT];
-JRACGP --> JA3[John Alcraft\n1904-1992\nNewcastle UT];
+JRACGP --> JA3[John Alcraft\n1904-1992\nNewcastle UT-Salisbury];
 JRACGP --> FEA2[Frances Ellen Alcraft\n1908-1982\nNewcastle UT];
+
+JA3 --> JA3NL{Married\n1931\nNewcastle UT}
+NL[Nance Laidler\n1905-2006\nLondon-Salisbury]
 
 style JA1 fill:#90d5ff
 click JA1 "jones" "JA1"
