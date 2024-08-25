@@ -7,7 +7,9 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 flowchart TD  
 JA00[John Allan\n1768-?\nScotland-?]
 style JA00 fill:#FADADD;
-click JA00 "https://www.wikitree.com/wiki/Allan-4870" "JA00"
+click JA00 "https://www.wikitree.com/wiki/Allan-4870" "JA00";
+JA00 --> JA00UKN{Married?};
+JA00UKN --> JA0;
 JA0[John Allan\n1807-1891\nBamburgh-Riding]
 style JA0 fill:#90d5ff
 MAF[Mary Ann Fiddes\n1808-1845];
