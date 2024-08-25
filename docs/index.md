@@ -5,7 +5,7 @@ A project to trace the Alcrafts back to the infamous Northumbrian piper James Al
 
 ``` mermaid
 flowchart TD  
-JA1[John Alcraft] --> JAJA{Married};
+JA1[John Alcraft\n1839-1903] --> JAJA{Married\n1864};
 JA2[Jane Allan] --> JAJA{Married};  
 JAJA -->D[Someone else];  
 style JAJA fill:#D3D3D3
