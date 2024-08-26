@@ -23,7 +23,7 @@ click JA00 "https://www.wikitree.com/wiki/Allan-4870" "JA00";
 JA00 ----> |1841 census has him living with them| JA0;
 JA0[John Allan\n1807-1891\nBamburgh-Riding]
 style JA0 fill:#90d5ff
-MAF[Mary Ann Fiddes\n1808-1845];
+MAF[Mary Ann Fiddes\n1808-1845\n -Rothbury\nFather George Fiddes from Rothbury];
 style MAF fill:#FADADD;
 JA0 --> JA0MAF{Married\n1836\nAlnham};
 MAF --> JA0MAF;
